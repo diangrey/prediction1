@@ -11,8 +11,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-GROUP_CHAT_ID = "-1002139585995"
+BOT_TOKEN = os.getenv("8423784042:AAGpypFyrHrT-SxAIzgf2R_8pFiLV2UjceE")
+GROUP_CHAT_ID = "-1002530598502"
 bot = Bot(token=BOT_TOKEN)
 
 stickers = [
